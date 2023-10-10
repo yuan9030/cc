@@ -1,1 +1,1 @@
-vmess://ws+tls:af41686b-cb85-494a-a554-eeaa1514bca7-0@nb.iyuan.xyz:443/?path=/ray&tlsServerName=nb.iyuan.xyz#yuan
+dm1lc3M6Ly93cyt0bHM6YWY0MTY4NmItY2I4NS00OTRhLWE1NTQtZWVhYTE1MTRiY2E3LTBAbmIuaXl1YW4ueHl6OjQ0My8/cGF0aD0vcmF5JnRsc1NlcnZlck5hbWU9bmIuaXl1YW4ueHl6I3l1YW4=
